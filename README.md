@@ -1,3 +1,10 @@
+A nest JS Todo rest Api
+Tech used
+Nestjs https://docs.nestjs.com/
+MongoDB
+Mongoose
+
+
 To install new module
 nest g module modulename
 To install new controller
